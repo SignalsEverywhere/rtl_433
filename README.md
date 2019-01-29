@@ -1,5 +1,8 @@
-rtl_433
+rtl_433 - Windows Build
 =======
+
+I've built rtl_433 with ONLY rtl-sdr support at this time for windows. You'll find it under releases.
+
 
 rtl_433 (despite the name) is a generic data receiver, mainly for the 433.92 MHz, 868 MHz (SRD), 315 MHz, and 915 MHz ISM bands.
 
